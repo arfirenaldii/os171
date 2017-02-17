@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 arfi.renaldi StafCS 4096 Feb 17 08:37 .
+drwx--x--x  3 arfi.renaldi StafCS 4096 Feb 17 08:35 ..
+drwxr-xr-x  8 arfi.renaldi StafCS 4096 Feb 17 08:36 .git
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:35 key
+-rw-r--r--  1 arfi.renaldi StafCS    0 Feb 17 08:38 lab01.txt
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:34 log
+-rw-r--r--  1 arfi.renaldi StafCS    7 Feb 14 16:02 README.md
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 17 08:26 sandbox
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 17 08:35 week00
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:32 week01
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:32 week02
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:33 week03
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:33 week04
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:33 week05
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:33 week06
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:33 week07
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:34 week08
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:34 week09
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:34 week10
+drwxr-xr-x  2 arfi.renaldi StafCS 4096 Feb 15 21:35 xtra
+/home/fasilkom/mahasiswa/a/arfi.renaldi/os171/week01
