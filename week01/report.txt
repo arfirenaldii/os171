@@ -1,0 +1,1 @@
+task week01 menjelaskan tentang pengenalan Git, CLI dan scripting
