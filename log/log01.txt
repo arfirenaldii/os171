@@ -2,4 +2,8 @@ w01-140217-10-LR-Watching demo from lecturer
 w01-140217-10-LR-Watching demo from lecturer
 w01-140217-11-LR-IPR & Scripting From: Lecturer
 w01-140217-11-LR-IPR & Scripting From: Lecturer
+w01-160217-10-LR-Pengenalan Lisensi Perangkat Lunak Bebas From: Lecturer
+w01-160217-10-LR-Watching demo from lecturer
+w01-160217-11-LR-GNU/Linux Command Line Interface From: Lecturer
+w01-160217-11-LR-Watching demo from lecturer
 w01-170217-08-PS-mengerjakan lab01
