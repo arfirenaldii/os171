@@ -1,0 +1,4 @@
+w05-170411-10-LR-Process Concept From: Lecturer
+w05-170411-10-LR-Watching demo from lecturer
+w05-170411-11-LR-fork() and execlp() From: Lecturer
+w05-170411-11-LR-Watching demo from lecturer
