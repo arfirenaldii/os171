@@ -1,0 +1,9 @@
+w08-170427-10-LR-Scheduling From: Lecturer
+w08-170427-10-LR-Watching demo from lecturer
+w08-170427-11-LR-Socket From: Lecturer
+w08-170427-11-LR-Watching demo from lecturer
+
+w08-170428-14-DS-Socket and using server.c
+w08-170428-14-PS-Lab week08
+w08-170428-15-PS-Lab week08
+w08-170428-15-PS-Lab week08
